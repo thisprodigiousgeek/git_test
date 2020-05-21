@@ -1,2 +1,2 @@
-<?phg
+<?php
 echo 'function_a';
